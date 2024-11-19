@@ -6,11 +6,13 @@ use App\Http\Requests\CreateArticleRequest;
 use App\Http\Requests\UpdateArticleRequest;
 use App\Models\Article;
 use App\Models\Category;
+use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
 class ArticleController extends Controller
 {
+    use AuthorizesRequests;
 
     public function index()
     {
