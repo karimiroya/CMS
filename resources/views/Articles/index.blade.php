@@ -38,11 +38,11 @@
                             <a href="{{ route('articles.edit', $article->id) }}" class="btn btn-sm btn-warning">Edit</a>
                         @endif
 
-                        @if(auth()->user()->role->name === 'editor' && $article->status === 'pending')
+                        @if(auth()->user()->role->name === 'Editor' && $article->status === 'pending')
                             <a href="{{ route('articles.publish', $article->id) }}" class="btn btn-sm btn-success">Publish</a>
                         @endif
 
-                        @if(auth()->user()->role->name === 'admin')
+                        @if(auth()->user()->role->name === 'Admin')
                             <form action="{{ route('articles.destroy', $article->id) }}" method="POST" style="display:inline-block;">
                                 @csrf
                                 @method('DELETE')

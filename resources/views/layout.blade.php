@@ -36,6 +36,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('articles.create') }}">Create Article</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('profile.edit') }}">Profile</a>
+                </li>
             </ul>
         </div>
     </div>
