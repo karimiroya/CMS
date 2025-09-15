@@ -71,4 +71,13 @@ A simple Content Management System built with **Laravel 11** and **PHP 8.2**, fe
 
 ##  Screenshots
 
+     ![Login Page](screenshot/login.png)
+     ![profile Page](screenshot/profile.png)
+     ![Article Page](screenshot/TableArticles.png)
+     ![EditArticle Page](screenshot/EditArticle.png)
+     ![viewArticle Page](screenshot/viewArticle.png)
+     ![CreateArticle Page](screenshot/CreateArticle.pn g)
+     ![mysql Page](screenshot/mysql.png)
+
+
 
