@@ -69,10 +69,8 @@ A simple Content Management System built with **Laravel 11** and **PHP 8.2**, fe
 
    Your app will be running at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
+
 ##  Screenshots
-
-
-     ## 📸 Screenshots
 
 ### Login Page
 ![Login Page](screenshot/login.jpg)
