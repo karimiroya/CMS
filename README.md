@@ -69,15 +69,29 @@ A simple Content Management System built with **Laravel 11** and **PHP 8.2**, fe
 
    Your app will be running at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
-##  Screenshots
+## 📸 Screenshots
 
-     ![Login Page](screenshot/login.png)
-     ![profile Page](screenshot/profile.png)
-     ![Article Page](screenshot/TableArticles.png)
-     ![EditArticle Page](screenshot/EditArticle.png)
-     ![viewArticle Page](screenshot/viewArticle.png)
-     ![CreateArticle Page](screenshot/CreateArticle.pn g)
-     ![mysql Page](screenshot/mysql.png)
+### Login Page
+![Login Page](screenshot/login.png)
+
+### Profile Page
+![Profile Page](screenshot/profile.png)
+
+### Articles Table
+![Article Page](screenshot/TableArticles.png)
+
+### Edit Article
+![Edit Article](screenshot/EditArticle.png)
+
+### View Article
+![View Article](screenshot/viewArticle.png)
+
+### Create Article
+![Create Article](screenshot/CreateArticle.png)
+
+### MySQL Page
+![MySQL Page](screenshot/mysql.png)
+
 
 
 
