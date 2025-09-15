@@ -17,7 +17,29 @@ A simple Content Management System built with **Laravel 11** and **PHP 8.2**, fe
 - **Database:** MySQL (via XAMPP)
 - **Frontend:** Blade Templates, Bootstrap/Tailwind
 - **Tools:** Composer, Artisan CLI, Git
+- 
+##  Screenshots of pages 
 
+### Login Page
+![Login Page](screenshot/login.jpg)
+
+### Profile Page
+![Profile Page](screenshot/profile.png)
+
+### Articles Table
+![Article Page](screenshot/TableArticles.png)
+
+### Edit Article
+![Edit Article](screenshot/EditArticle.png)
+
+### View Article
+![View Article](screenshot/viewArticle.png)
+
+### Create Article
+![Create Article](screenshot/CreateArticle.png)
+
+### MySQL Page
+![MySQL Page](screenshot/mysql.jpg)
 ## Installation
 
 1. Clone the repository:
@@ -70,28 +92,12 @@ A simple Content Management System built with **Laravel 11** and **PHP 8.2**, fe
    Your app will be running at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 
-##  Screenshots
 
-### Login Page
-![Login Page](screenshot/login.jpg)
 
-### Profile Page
-![Profile Page](screenshot/profile.png)
 
-### Articles Table
-![Article Page](screenshot/TableArticles.png)
 
-### Edit Article
-![Edit Article](screenshot/EditArticle.png)
 
-### View Article
-![View Article](screenshot/viewArticle.png)
 
-### Create Article
-![Create Article](screenshot/CreateArticle.png)
-
-### MySQL Page
-![MySQL Page](screenshot/mysql.jpg)
 
 
 
